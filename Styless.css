@@ -73,3 +73,51 @@ footer {
   justify-content: center;
   margin-top: 6rem;
 }
+
+.beneficios {
+  display: flex;
+  gap: 5rem;
+}
+
+.section_1 {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+}
+
+.container2 {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container2_card1 {
+  border-radius: 10px;
+  background-color: aquamarine;
+  height: 100px;
+  width: 100px;
+}
+
+.container2_card2 {
+  border-radius: 10px;
+  background-color: aquamarine;
+  height: 100px;
+  width: 100px;
+}
+
+.containter2_card1_h4 {
+  border-bottom: 1px solid #000;
+}
+
+.container2_card2_h4 {
+  border-bottom: 1px solid #000;
+}

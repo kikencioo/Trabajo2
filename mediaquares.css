@@ -1,0 +1,14 @@
+@media (max-width: 578px) {
+  main {
+    flex-direction: column;
+  }
+  .hero_info {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .section_1 {
+    max-width: 450px;
+    text-align: center;
+  }
+}
